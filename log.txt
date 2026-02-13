@@ -1,0 +1,3 @@
+git clone [url]: Copia o repositório remoto (GitHub) para o computador local.
+git add [ficheiro]: Adiciona as alterações ao "staging area" para preparar o commit.
+git commit -m "mensagem": Grava as alterações no histórico com uma mensagem descritiva.
